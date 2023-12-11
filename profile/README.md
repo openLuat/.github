@@ -5,4 +5,5 @@
 1. LuatOS固件类, 例如 主库 LuatOS
 2. CSDK类, 例如 luatos-soc-2022 和 luatos-soc-2023
 3. 其他, 例如 ectool2py
-4. 
+
+大部分项目都是MIT协议
